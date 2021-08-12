@@ -9,7 +9,7 @@ Há mais ou menos 5 meses voltei a entrar em contato com a programação (que j�
 
 Nesse mesmo endereço encontram-se meus projetos, espero que gostem.
 
-Me contate por meu e-mail: aso.cezar00@gmail.com
+Me contate pelo meu e-mail: aso.cezar00@gmail.com
 
 <!---
 ASOCezar/ASOCezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
