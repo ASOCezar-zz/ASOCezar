@@ -8,7 +8,7 @@
 
 -------
 
-Atualmente encontro-me procurando vagas para trabalhar com JavaScript/React.js.
+Atualmente encontro-me procurando vagas para trabalhar com JavaScript/React.js e Backend Node.Js.
 Tenho muita disposição e vontade de aprender coisas novas.
 
 Há algum tempo voltei a entrar em contato com a programação (que já era uma paixão antiga que teve de ser interrompida por um breve período). Tenho dedicado meu tempo, quase que inteiramente para o estudo das mais novas tecnologias e bibliotecas JavaScript.
